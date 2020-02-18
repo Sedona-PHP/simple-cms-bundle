@@ -25,7 +25,7 @@ trades away some of that flexibility in favor of simplicity.
 
 ## Requirements
 
-* Symfony 2.3+
+* Symfony 3.0+
 * See also the `require` section of [composer.json](composer.json)
 
 
